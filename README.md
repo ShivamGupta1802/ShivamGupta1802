@@ -18,8 +18,6 @@
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/ShivamGupta1802/ShivamGupta1802](https://github.com/ShivamGupta1802/ShivamGupta1802)
-- 📝 I regularly write articles on
-[https://hashnode.com/@shivamGupta](https://hashnode.com/@shivamGupta) 
 - 📫 How to reach me **sg3993415@gmail.com** 
 - 📄 Know about my experiences[https://www.linkedin.com/in/shivam-gupta-5a529725a/](https://www.linkedin.com/in/shivam-gupta-5a529725a/)
 
@@ -91,14 +89,14 @@
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"
             height="40" />
     </a> -->
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    </a> -->
+<!--     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" />
-    </a>
+    </a> -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" />
